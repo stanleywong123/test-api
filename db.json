@@ -2,19 +2,23 @@
   "animals": [
     {
       "id": 0,
-      "name": "cat"
+      "name": "cat",
+      "feed": "cat food"
     },
     {
       "id": 1,
-      "name": "dog"
+      "name": "dog",
+      "feed": "dog food"
     },
     {
       "id": 2,
-      "name": "cow"
+      "name": "cow",
+      "feed": "grass"
     },
     {
       "id": 3,
-      "name": "sheep"
+      "name": "sheep",
+      "feed": "grass"
     },
     {
       "id": 4,
