@@ -1,0 +1,36 @@
+{
+  "animals": [
+    {
+      "id": 0,
+      "name": "cat",
+      "feed": "cat food"
+    },
+    {
+      "id": 1,
+      "name": "dog",
+      "feed": "dog food"
+    },
+    {
+      "id": 2,
+      "name": "cow",
+      "feed": "grass"
+    },
+    {
+      "id": 3,
+      "name": "sheep",
+      "feed": "grass"
+    },
+    {
+      "id": 4,
+      "name": "horse"
+    },
+    {
+      "id": 5,
+      "name": "lamb"
+    },
+    {
+      "id": 6,
+      "name": "capybara"
+    }
+  ]
+}

@@ -1,36 +1,321 @@
 {
-  "animals": [
+  "users": [
     {
       "id": 0,
-      "name": "cat",
-      "feed": "cat food"
+      "name": "Sandrine",
+      "description": "Aperiam magni omnis optio ut voluptatem. Reiciendis delectus minus ullam magnam a. Est inventore quis laboriosam asperiores et provident modi rerum.\n \rImpedit hic laborum id excepturi velit quia quia. Quis sit ut ut sit. Consequuntur aliquid quia consectetur veniam molestiae et consequatur quo. Autem incidunt ab nam. Temporibus et ut iure veniam autem est quia. Tenetur sunt et ex velit.",
+      "picture": "https://cdn.fakercloud.com/avatars/flashmurphy_128.jpg",
+      "country": "Albania",
+      "joining_date": "2022-08-22T21:29:31.872Z"
     },
     {
       "id": 1,
-      "name": "dog",
-      "feed": "dog food"
+      "name": "Adrienne",
+      "description": "Temporibus ratione quia. Autem quia distinctio explicabo inventore rem minima perferendis ab maxime. Officia tempora est deleniti fuga aperiam omnis.\n \rOptio ipsam reprehenderit at corrupti quidem dolorem. Aut qui deserunt et aut officia vitae. Maxime ullam velit et id ex rerum incidunt blanditiis incidunt. Minus maxime aut ut illum illum architecto et. Et architecto et et ut alias ratione quia. Rem nulla omnis nam voluptatum consequatur libero nihil distinctio.",
+      "picture": "https://cdn.fakercloud.com/avatars/dnezkumar_128.jpg",
+      "country": "Slovakia (Slovak Republic)",
+      "joining_date": "2022-10-10T00:31:22.552Z"
     },
     {
       "id": 2,
-      "name": "cow",
-      "feed": "grass"
+      "name": "Christina",
+      "description": "Aut iure nihil suscipit. Eligendi vel et unde et cumque. Porro error occaecati voluptatibus magni omnis.\n \rEa vero nihil rerum eos facere voluptas odit voluptatibus. In corporis temporibus occaecati eos dolores provident et. Qui dolores dolor rerum voluptatem. Veniam corrupti quidem ratione occaecati ut dolor qui minus. Ut et iure consequatur. Rem quis sed neque optio delectus ipsa.",
+      "picture": "https://cdn.fakercloud.com/avatars/markjenkins_128.jpg",
+      "country": "Mozambique",
+      "joining_date": "2023-03-09T12:38:52.738Z"
     },
     {
       "id": 3,
-      "name": "sheep",
-      "feed": "grass"
+      "name": "Ken",
+      "description": "Sed aut est et rerum deleniti impedit voluptatum nihil. Et aliquam qui hic quod mollitia est quia. Aut facilis reprehenderit consequatur non dolorem voluptate quos libero officiis.\n \rImpedit voluptate vero quia laborum harum asperiores. Culpa et molestiae qui itaque ipsam. Enim cumque eos enim atque. Deserunt officiis ipsum dignissimos et cumque modi placeat. Vel maiores est et earum molestias repellat nostrum asperiores ipsa. Quis sit eum reiciendis.",
+      "picture": "https://cdn.fakercloud.com/avatars/mfacchinello_128.jpg",
+      "country": "El Salvador",
+      "joining_date": "2022-08-22T06:33:20.624Z"
     },
     {
       "id": 4,
-      "name": "horse"
+      "name": "Carli",
+      "description": "Doloribus beatae veniam aut cumque aut ratione praesentium maxime. Commodi omnis enim. Exercitationem est dicta ut voluptatem accusantium quod qui. Sed a cumque. Occaecati molestiae velit. Eum sequi quibusdam consequatur qui consectetur.\n \rSapiente natus quis aut facilis. Qui itaque quia sint facere. Ipsa dicta consequatur rerum beatae ipsam aut. Autem et exercitationem vero laborum. Iure dicta aut.",
+      "picture": "https://cdn.fakercloud.com/avatars/mizko_128.jpg",
+      "country": "Thailand",
+      "joining_date": "2022-12-29T12:04:17.545Z"
     },
     {
       "id": 5,
-      "name": "lamb"
+      "name": "Annabel",
+      "description": "Sint mollitia omnis sed. Reprehenderit nam minus est excepturi quis. Et est voluptatem a occaecati dolorem. Libero et deserunt reiciendis et ad.\n \rVoluptas in sit laborum aut et. Qui molestias ut sit est est aspernatur quo voluptas. Est fuga illo iste deleniti consequatur. Eius adipisci quibusdam est facere consequuntur animi.",
+      "picture": "https://cdn.fakercloud.com/avatars/mastermindesign_128.jpg",
+      "country": "Thailand",
+      "joining_date": "2023-03-16T12:49:10.816Z"
     },
     {
       "id": 6,
-      "name": "capybara"
+      "name": "Nicola",
+      "description": "Totam distinctio eos necessitatibus. Atque esse qui dolore. Velit quasi fugit quisquam maxime cum. Quia aut voluptatem quasi. Officia non perferendis consequuntur debitis dicta nisi.\n \rPerferendis est veritatis consequatur praesentium est sapiente fugiat. Tempore aliquid ut. Itaque dolor nam corrupti molestiae voluptatem esse ut temporibus accusamus. Ea et error suscipit quo voluptas veniam non deserunt excepturi.",
+      "picture": "https://cdn.fakercloud.com/avatars/chris_frees_128.jpg",
+      "country": "Congo",
+      "joining_date": "2022-11-30T08:59:27.118Z"
+    },
+    {
+      "id": 7,
+      "name": "Kole",
+      "description": "Quis aspernatur deleniti ut eveniet. Nihil nobis ex architecto et esse rerum. Eum id aliquid tenetur molestiae odio. Harum unde recusandae repudiandae nihil sit sit ducimus perspiciatis vel. Ut ullam molestias sed maxime molestias itaque vel.\n \rSit delectus consequatur et sed qui qui reprehenderit delectus sed. Quia molestias doloremque nihil. Ut consequuntur omnis.",
+      "picture": "https://cdn.fakercloud.com/avatars/marcomano__128.jpg",
+      "country": "Andorra",
+      "joining_date": "2022-05-01T19:35:52.510Z"
+    },
+    {
+      "id": 8,
+      "name": "Kade",
+      "description": "Et tempore dolore placeat. Debitis doloremque non esse dolores. Qui blanditiis aspernatur. Dolores omnis itaque nam consequatur fugit.\n \rCumque consequatur aut doloremque quia illo doloremque aliquam et. Numquam voluptatem rerum repellendus ullam facere modi commodi. Similique deserunt architecto expedita quibusdam ut quas. Aut recusandae temporibus. Soluta voluptas aut delectus non. Maiores quibusdam laudantium iste nam dolor sed.",
+      "picture": "https://cdn.fakercloud.com/avatars/gauravjassal_128.jpg",
+      "country": "Singapore",
+      "joining_date": "2022-11-27T14:06:07.402Z"
+    },
+    {
+      "id": 9,
+      "name": "Maria",
+      "description": "Nesciunt velit dolores et reiciendis ipsam maiores. Sed laborum sint qui itaque est quos voluptatem dolor iusto. Non ex voluptatem quia ut culpa nam nihil. Quasi impedit maxime ipsum aliquam eum ullam.\n \rVoluptatibus quaerat ad nihil distinctio beatae et ex debitis ut. Placeat sunt autem velit quia hic laudantium vel accusamus facere. Et quaerat nihil exercitationem ut aut quos. Doloremque qui dolor accusamus accusamus velit. Nobis eius ut impedit quos.",
+      "picture": "https://cdn.fakercloud.com/avatars/phillapier_128.jpg",
+      "country": "Seychelles",
+      "joining_date": "2023-03-05T06:17:22.049Z"
+    },
+    {
+      "id": 10,
+      "name": "Bridgette",
+      "description": "Consequatur magnam est voluptatem eum et. Labore numquam ab. At quam eum voluptatem vel ut incidunt temporibus omnis distinctio. Voluptas quis ut atque aut officia. Nulla molestias rerum ut corporis.\n \rOptio officiis molestiae velit minima nihil quis autem non distinctio. Iste deserunt nostrum quae esse voluptatum eos. At explicabo rerum. Omnis odio corrupti. Perferendis eveniet quos repellendus earum eius consequuntur dolor. Hic quo laborum minima quaerat blanditiis eum voluptas.",
+      "picture": "https://cdn.fakercloud.com/avatars/kuldarkalvik_128.jpg",
+      "country": "Holy See (Vatican City State)",
+      "joining_date": "2022-10-27T13:22:20.084Z"
+    },
+    {
+      "id": 11,
+      "name": "Randi",
+      "description": "Officia iure blanditiis voluptates sit qui asperiores sit. Enim est numquam dolorum est atque aut. Occaecati aperiam non excepturi quod omnis praesentium aut consequatur doloribus. Consequatur cumque dolore eius voluptas atque quas facere est temporibus.\n \rDolores quod non facilis dolores et saepe mollitia. Quasi vel quisquam facilis occaecati. Est quia reprehenderit. Exercitationem optio dolorum exercitationem accusantium a pariatur voluptatem consequatur. Quo voluptatibus quaerat expedita sint. Dolor dolore sunt placeat voluptas sequi.",
+      "picture": "https://cdn.fakercloud.com/avatars/vitor376_128.jpg",
+      "country": "Timor-Leste",
+      "joining_date": "2022-11-09T09:45:19.767Z"
+    },
+    {
+      "id": 12,
+      "name": "Erik",
+      "description": "Dolores distinctio aliquid voluptatem. Optio magnam voluptatem quaerat tenetur iusto nihil velit. Sit architecto et. Magni voluptatem possimus inventore et. Id aliquid et.\n \rIusto maiores id neque quam tempore labore. Voluptas consectetur enim distinctio sed quae. Tempore tempora ipsum dignissimos quas consequatur non nulla. Hic necessitatibus et ea.",
+      "picture": "https://cdn.fakercloud.com/avatars/dudestein_128.jpg",
+      "country": "Trinidad and Tobago",
+      "joining_date": "2022-06-18T23:32:46.705Z"
+    },
+    {
+      "id": 13,
+      "name": "Joey",
+      "description": "Et eos autem atque a deleniti facilis. Aliquam consequatur eius saepe molestiae nesciunt. Distinctio enim natus cupiditate odit qui dolores. Similique dolorem voluptatibus facere repellat pariatur. Voluptas dicta quasi rerum voluptas.\n \rNihil eum occaecati eum explicabo deserunt natus. Dolores et accusamus et. Amet aut sunt accusamus voluptatibus consequatur. Et est laboriosam consequatur in molestias. In unde et consectetur esse placeat dolore.",
+      "picture": "https://cdn.fakercloud.com/avatars/_scottburgess_128.jpg",
+      "country": "Saudi Arabia",
+      "joining_date": "2022-12-19T02:25:39.263Z"
+    },
+    {
+      "id": 14,
+      "name": "Carlie",
+      "description": "Ut aliquid ab perferendis sint tempore similique fugiat aut. Quis nam reprehenderit soluta aut iusto. Consequuntur facere voluptates deserunt et doloribus voluptate blanditiis commodi omnis.\n \rFacilis reiciendis repudiandae saepe autem pariatur aut ea. Corrupti sequi iste doloribus fugiat. Ipsum sit aliquam neque vel tempore.",
+      "picture": "https://cdn.fakercloud.com/avatars/hgharrygo_128.jpg",
+      "country": "Libyan Arab Jamahiriya",
+      "joining_date": "2022-09-04T11:29:32.519Z"
+    },
+    {
+      "id": 15,
+      "name": "Lera",
+      "description": "Placeat quia eos id quis et nam voluptatem. Rerum qui et consequatur nemo soluta molestiae aut sit. Sint itaque sequi placeat id ab a et esse. Et praesentium aut eius magni voluptatibus itaque pariatur et quis.\n \rQui at vero ullam ut earum dolores non. Vel velit assumenda omnis sit ipsa iste labore dolor. Itaque voluptas aperiam error est cum provident. In sunt qui neque aspernatur optio impedit ea voluptatem. Laboriosam placeat accusantium omnis.",
+      "picture": "https://cdn.fakercloud.com/avatars/scottiedude_128.jpg",
+      "country": "Bermuda",
+      "joining_date": "2023-03-24T05:32:17.398Z"
+    },
+    {
+      "id": 16,
+      "name": "Antonetta",
+      "description": "Laborum laudantium est aut. Quisquam sit est. Accusamus pariatur eius quod et in voluptatem. Consectetur consequuntur necessitatibus distinctio quos quia molestiae porro.\n \rQuaerat officia aliquid iure veritatis quia. Saepe qui amet consectetur et fugiat. Expedita quos aliquid qui quo eligendi provident. Minima debitis nesciunt voluptas atque et est. Ut vero sint autem nobis voluptas consequatur. Voluptatem voluptatem aspernatur consequuntur.",
+      "picture": "https://cdn.fakercloud.com/avatars/designervzm_128.jpg",
+      "country": "Saint Helena",
+      "joining_date": "2022-12-13T06:25:24.374Z"
+    },
+    {
+      "id": 17,
+      "name": "Kurt",
+      "description": "Nam alias repellendus aut nam. Id ut eaque laborum enim minima libero quia porro et. Sit rerum quasi unde.\n \rVelit exercitationem ab voluptatem deserunt autem. Deserunt laborum necessitatibus distinctio. Blanditiis aut eaque quae totam. Expedita optio quos voluptatem. Odio accusamus autem recusandae veniam est iste cupiditate atque incidunt.",
+      "picture": "https://cdn.fakercloud.com/avatars/dc_user_128.jpg",
+      "country": "Bolivia",
+      "joining_date": "2022-05-06T10:59:38.855Z"
+    },
+    {
+      "id": 18,
+      "name": "Delmer",
+      "description": "Aperiam eveniet maxime numquam laudantium fugiat dignissimos assumenda. Deleniti et et dolor aspernatur. Voluptatem nam magni debitis eos. Ullam rerum debitis. Quis nulla molestias labore laboriosam quia quod voluptas id dolores. Accusantium porro quaerat.\n \rVeritatis molestiae repellat sit est sunt ut et odio perferendis. Quaerat cumque nihil molestiae consectetur. Maiores qui maxime repudiandae distinctio explicabo.",
+      "picture": "https://cdn.fakercloud.com/avatars/chatyrko_128.jpg",
+      "country": "Spain",
+      "joining_date": "2022-07-07T14:41:14.800Z"
+    },
+    {
+      "id": 19,
+      "name": "Travon",
+      "description": "Fugit in hic minus. Quia ipsam dignissimos praesentium dolorum. Quis saepe neque modi perspiciatis. Voluptatem et sapiente iure dolores placeat. Dolore eius nisi eos incidunt voluptatem. Placeat qui magnam saepe error quia suscipit.\n \rVoluptatum sit id sapiente debitis omnis totam. A sit est et deserunt necessitatibus repudiandae sit quae aperiam. Recusandae aut sed tenetur quos occaecati. Earum suscipit nemo dolorum rerum et et. Qui voluptates provident at dolore.",
+      "picture": "https://cdn.fakercloud.com/avatars/manekenthe_128.jpg",
+      "country": "Bermuda",
+      "joining_date": "2023-03-28T08:38:42.343Z"
+    },
+    {
+      "id": 20,
+      "name": "Trinity",
+      "description": "Fuga natus est aspernatur ut enim. Qui vel odio modi id porro aliquam quaerat distinctio. Dolores est veritatis accusamus temporibus ipsam praesentium consequuntur itaque voluptate. Doloribus fugit quia aut ab cum. Autem enim eos iste blanditiis et ipsa tempore accusamus.\n \rDebitis dolores tempora aperiam voluptas odit. Sapiente corrupti in tenetur ipsam voluptas illo odit. Unde ut est sint maxime sit in.",
+      "picture": "https://cdn.fakercloud.com/avatars/davecraige_128.jpg",
+      "country": "New Zealand",
+      "joining_date": "2022-10-17T16:15:42.584Z"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 0,
+      "vehicle": "Toyota Element",
+      "fuel": "Electric",
+      "vin": "1A9JXTG9E1SL93845",
+      "color": "violet"
+    },
+    {
+      "id": 1,
+      "vehicle": "Smart Focus",
+      "fuel": "Diesel",
+      "vin": "4MEM925TWPNA97286",
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "vehicle": "Ferrari Element",
+      "fuel": "Hybrid",
+      "vin": "SKAUVYC55EU276130",
+      "color": "yellow"
+    },
+    {
+      "id": 3,
+      "vehicle": "Bentley Model 3",
+      "fuel": "Gasoline",
+      "vin": "5C0EXPA66GG793742",
+      "color": "white"
+    },
+    {
+      "id": 4,
+      "vehicle": "Mercedes Benz Model 3",
+      "fuel": "Gasoline",
+      "vin": "X1WXYWGWLLDK49002",
+      "color": "sky blue"
+    },
+    {
+      "id": 5,
+      "vehicle": "Honda Sentra",
+      "fuel": "Gasoline",
+      "vin": "28C9WV2GP8AH68898",
+      "color": "black"
+    },
+    {
+      "id": 6,
+      "vehicle": "Audi F-150",
+      "fuel": "Electric",
+      "vin": "ZW8RYDDJ80FF15515",
+      "color": "blue"
+    },
+    {
+      "id": 7,
+      "vehicle": "Rolls Royce XTS",
+      "fuel": "Hybrid",
+      "vin": "1V0AE8KYS9TL23274",
+      "color": "olive"
+    },
+    {
+      "id": 8,
+      "vehicle": "Ford Element",
+      "fuel": "Gasoline",
+      "vin": "1VYY2F96YABL89901",
+      "color": "red"
+    },
+    {
+      "id": 9,
+      "vehicle": "Cadillac LeBaron",
+      "fuel": "Gasoline",
+      "vin": "0W4HDGW4FZN566401",
+      "color": "black"
+    },
+    {
+      "id": 10,
+      "vehicle": "Dodge Charger",
+      "fuel": "Gasoline",
+      "vin": "RT3GADNUK7KX32702",
+      "color": "teal"
+    },
+    {
+      "id": 11,
+      "vehicle": "Land Rover Volt",
+      "fuel": "Gasoline",
+      "vin": "98WFUKDEN0V358051",
+      "color": "plum"
+    },
+    {
+      "id": 12,
+      "vehicle": "Bugatti Silverado",
+      "fuel": "Electric",
+      "vin": "F5H2RU0G35DR80271",
+      "color": "fuchsia"
+    },
+    {
+      "id": 13,
+      "vehicle": "Volkswagen 2",
+      "fuel": "Gasoline",
+      "vin": "T0YG9AYT4BSC73790",
+      "color": "lavender"
+    },
+    {
+      "id": 14,
+      "vehicle": "Nissan Alpine",
+      "fuel": "Electric",
+      "vin": "SAE580HJ8CMK26322",
+      "color": "maroon"
+    },
+    {
+      "id": 15,
+      "vehicle": "Bugatti XTS",
+      "fuel": "Hybrid",
+      "vin": "6E3A8PPRHAL016184",
+      "color": "azure"
+    },
+    {
+      "id": 16,
+      "vehicle": "Volvo 911",
+      "fuel": "Gasoline",
+      "vin": "KPXNFYLR2RBZ28475",
+      "color": "plum"
+    },
+    {
+      "id": 17,
+      "vehicle": "Mini Altima",
+      "fuel": "Gasoline",
+      "vin": "8WALEA9W5YKA76348",
+      "color": "lime"
+    },
+    {
+      "id": 18,
+      "vehicle": "Jaguar Mercielago",
+      "fuel": "Hybrid",
+      "vin": "TX33GXLCZ0D116754",
+      "color": "gold"
+    },
+    {
+      "id": 19,
+      "vehicle": "Aston Martin Prius",
+      "fuel": "Gasoline",
+      "vin": "H327ZX0R0YHK34411",
+      "color": "lime"
+    },
+    {
+      "id": 20,
+      "vehicle": "Volkswagen Grand Caravan",
+      "fuel": "Diesel",
+      "vin": "B1RBU5CCEPDV27874",
+      "color": "blue"
     }
   ]
 }
